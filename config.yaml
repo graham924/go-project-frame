@@ -1,0 +1,20 @@
+default:
+  listenAddr: ":6180"
+  JWTSecret: "kubemanage"
+
+mysql:
+  host: "192.168.245.100"
+  port: "30306"
+  user: "root"
+  password: "xxxxxx"
+  name: "kubemanage"
+  maxOpenConns: 100
+  maxLifetime: 20
+  maxIdleConns: 10
+
+log:
+  level: "debug"   ## 日志等级
+  filename: "kubemanage.log"  # 日志文件位置
+  max_size: 200    # 日志文件最大大小(MB)
+  max_age: 30      # 保留旧日志文件的最大天数
+  max_backups: 7   # 最大保留日志个数

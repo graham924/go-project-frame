@@ -1,0 +1,21 @@
+{"level":"INFO","time":"2023-12-02T19:29:16.132+0800","caller":"server/server.go:52","msg":"success","starting kubemanage srv running on ":":6180"}
+{"level":"INFO","time":"2023-12-02T19:31:35.591+0800","caller":"server/server.go:52","msg":"success","starting kubemanage srv running on ":":6180"}
+{"level":"INFO","time":"2023-12-02T19:34:38.886+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":0.0008163}
+{"level":"INFO","time":"2023-12-02T19:35:22.885+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":0.0010894}
+{"level":"INFO","time":"2023-12-02T19:35:24.086+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":0.0005901}
+{"level":"INFO","time":"2023-12-02T19:37:05.956+0800","caller":"server/server.go:52","msg":"success","starting kubemanage srv running on ":":6180"}
+{"level":"INFO","time":"2023-12-02T19:37:19.647+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":0.0005035}
+{"level":"INFO","time":"2023-12-02T19:39:54.254+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":64.8417193}
+{"level":"INFO","time":"2023-12-02T19:41:02.937+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":66.3505222}
+{"level":"INFO","time":"2023-12-02T19:41:12.676+0800","caller":"server/server.go:52","msg":"success","starting kubemanage srv running on ":":6180"}
+{"level":"INFO","time":"2023-12-02T19:44:05.645+0800","caller":"user/user.go:19","msg":"login...."}
+{"level":"INFO","time":"2023-12-02T19:44:05.645+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":49.3165037}
+{"level":"INFO","time":"2023-12-02T19:46:17.598+0800","caller":"server/server.go:52","msg":"success","starting kubemanage srv running on ":":6180"}
+{"level":"INFO","time":"2023-12-02T19:46:37.199+0800","caller":"user/user.go:19","msg":"login...."}
+{"level":"INFO","time":"2023-12-02T19:49:07.801+0800","caller":"server/server.go:52","msg":"success","starting kubemanage srv running on ":":6180"}
+{"level":"INFO","time":"2023-12-02T19:49:14.548+0800","caller":"user/user.go:19","msg":"login...."}
+{"level":"INFO","time":"2023-12-02T19:49:14.549+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":0.0005036}
+{"level":"INFO","time":"2023-12-02T20:43:54.463+0800","caller":"server/server.go:56","msg":"success","starting kubemanage srv running on ":":6180"}
+{"level":"INFO","time":"2023-12-02T20:44:12.114+0800","caller":"middleware/log.go:21","msg":"/api/user/login","status":200,"method":"POST","path":"/api/user/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://www.apifox.cn)","errors":"","host":"127.0.0.1:6180","cost":0}
+{"level":"INFO","time":"2023-12-02T20:44:21.059+0800","caller":"server/server.go:68","msg":"shutting kubemanage server down ..."}
+{"level":"INFO","time":"2023-12-02T20:44:21.059+0800","caller":"server/server.go:82","msg":"kubemanage server exit successful"}
